@@ -129,6 +129,10 @@ Nicolò Zubbini
 ship_pinnace (original model)
 
 
+ParzivalCG
+standing_chalkboard_01
+
+
 Patrik Pangerl
 modern_wooden_cabinet
 
@@ -139,6 +143,7 @@ projector_screen
 
 PierreB3D
 wall_clock
+
 
 Rahul Chaudhary
 cardboard_box_01
