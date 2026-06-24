@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://b5l8l74rdgd3w"
+
+[deps]
+
+files=["res://debug/world/sketchfab_history. Author name.translation", "res://debug/world/sketchfab_history. Author url.translation", "res://debug/world/sketchfab_history. License.translation", "res://debug/world/sketchfab_history. Model link.translation"]
+
+source_file="res://debug/world/sketchfab_history.csv"
+dest_files=["res://debug/world/sketchfab_history. Author name.translation", "res://debug/world/sketchfab_history. Author url.translation", "res://debug/world/sketchfab_history. License.translation", "res://debug/world/sketchfab_history. Model link.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true
